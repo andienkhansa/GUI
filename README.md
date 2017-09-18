@@ -25,3 +25,12 @@ Output dari Program :
 5. <br>
 ![alt text](https://github.com/andienkhansa/GUI/blob/master/screenshoot/Screenshoot/latihan4.JPG)
 <br>
+6. <br>
+![alt text](https://github.com/andienkhansa/GUI/blob/master/screenshoot/Screenshoot/kuis1b.JPG)
+<br>
+7. <br>
+![alt text](https://github.com/andienkhansa/GUI/blob/master/screenshoot/Screenshoot/kuis1c.JPG)
+<br>
+8. <br>
+![alt text](https://github.com/andienkhansa/GUI/blob/master/screenshoot/Screenshoot/kuis1d.JPG)
+<br>
